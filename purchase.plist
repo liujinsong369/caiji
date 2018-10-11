@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.177/zhy.ipa</string>
+                    <string>http://118.184.219.88:8081/purchase.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    						<string>io.dcloud.H5D605B21</string>
+    						<string>io.dcloud.H57BA7B93</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
