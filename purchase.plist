@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://118.184.219.88:8081/purchase.ipa</string>
+                    <string>http://www.cetc28.com.cn:8080/app/purchase.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
